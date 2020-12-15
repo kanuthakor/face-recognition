@@ -12,4 +12,7 @@ opencv library for python
 
 # installing opencv using python pip install
 
+<code>
 pip install opencv-python
+</code>
+
